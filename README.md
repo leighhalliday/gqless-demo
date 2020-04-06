@@ -1,24 +1,11 @@
 # gqless
 
-- Video: Coming soon
-- Source code: Coming soon
-- gqless: https://gqless.dev/
-- repository: https://github.com/samdenty/gqless
-- Spacex API: https://api.spacex.land/graphql/
-- Marc's review: https://medium.com/@__xuorig__/gqless-or-gqlful-ec36fe588a4b
-- Marc's discussion: https://twitter.com/__xuorig__/status/1245738156881842176?mc_cid=5676336976&mc_eid=8cc62fcb42
-
-## Show
-
-- Installation
-- Generation
-- Client... headers
-- Suspense
-- `graphql` HOC
-- `query`
-- Polling confusion
-- Variable confusion
-- Custom client side extensions (click a ship)
+- [Video](https://youtu.be/x1HA1EiKqOA)
+- [gqless](https://gqless.dev/)
+- [gqless source](https://github.com/samdenty/gqless)
+- [Spacex API](https://api.spacex.land/graphql/)
+- [Marc's review](https://medium.com/@__xuorig__/gqless-or-gqlful-ec36fe588a4b)
+- [Marc's discussion](https://twitter.com/__xuorig__/status/1245738156881842176?mc_cid=5676336976&mc_eid=8cc62fcb42)
 
 ## Loving
 
